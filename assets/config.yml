@@ -2,8 +2,8 @@
 # Homepage configuration
 # See https://fontawesome.com/search for icons options
 
-title: "Demo dashboard"
-subtitle: "Homer"
+title: "Meiismoe's Lab"
+subtitle: "这一切都是命运石之门的选择！"
 logo: "logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
@@ -74,28 +74,14 @@ services:
   - name: "Applications"
     icon: "fas fa-cloud"
     items:
-      - name: "Get started"
+      - name: "My Blog"
         icon: "fa-solid fa-download"
-        subtitle: "Start using Homer in a few minutes"
-        tag: "setup"
-        url: "https://github.com/bastienwirtz/homer?tab=readme-ov-file#get-started"
-      - name: "Configuration"
+        subtitle: "Hugo 博客主页"
+        tag: "Main"
+        url: "https://www.meiismoe.top"
+      - name: "Image Hosting"
         icon: "fa-solid fa-sliders"
-        subtitle: "Configuration options documentation"
-        tag: "setup"
-        url: "https://github.com/bastienwirtz/homer/blob/main/docs/configuration.md"
-      - name: "Theming"
-        icon: "fa-solid fa-palette"
-        subtitle: "Customize Homer appearance"
-        tag: "theming"
-        url: "https://github.com/bastienwirtz/homer/blob/main/docs/theming.md"
-      - name: "Smart cards"
-        icon: "fa-solid fa-palette"
-        subtitle: "Displays dynamic information or actions."
-        tag: "setup"
-        url: "https://github.com/bastienwirtz/homer/blob/main/docs/customservices.md"
-      - name: "Dashboard icons"
-        icon: "fa-solid fa-icons"
-        subtitle: "Dashboard icons"
-        tag: "setup"
-        url: "https://github.com/walkxcode/dashboard-icons"
+        subtitle: "专属私人图床"
+        tag: "Tool"
+        url: "https://img.meiismoe.top"
+      
